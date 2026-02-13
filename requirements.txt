@@ -1,0 +1,17 @@
+langchain-openai
+langchain
+python-dotenv
+langchain_community
+langchain_core
+streamlit
+langchain-ollama
+langchain_groq
+pypdf
+faiss-cpu
+langchain_huggingface
+langchain_chroma
+sentence-transformers
+wikipedia
+arxiv
+langchainhub
+langsmith
